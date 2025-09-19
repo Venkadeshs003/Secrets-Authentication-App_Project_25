@@ -24,6 +24,12 @@ Supports both **local authentication** (email & password with bcrypt hashing) an
 
 ---
 
+Preview
+![Home Page](./screenshot/Home%20Page.png)
+![Login Page](./screenshot/Login%20Page.png)
+![process preview](./screenshot/process%20preview.gif)
+![Register Page](./screenshot/Register%20Page.png)
+
 ## 🚀 Features  
 
 - 🔒 User authentication with **Passport.js**  
